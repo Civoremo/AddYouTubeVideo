@@ -1,0 +1,18 @@
+C:\Users\NtD\AppData\Local\Temporary Projects\AddYouTubeVideo\bin\Debug\AddYouTubeVideo.exe
+C:\Users\NtD\AppData\Local\Temporary Projects\AddYouTubeVideo\bin\Debug\AddYouTubeVideo.pdb
+C:\Users\NtD\AppData\Local\Temporary Projects\AddYouTubeVideo\obj\x86\Debug\AddYouTubeVideo.Form1.resources
+C:\Users\NtD\AppData\Local\Temporary Projects\AddYouTubeVideo\obj\x86\Debug\AddYouTubeVideo.Properties.Resources.resources
+C:\Users\NtD\AppData\Local\Temporary Projects\AddYouTubeVideo\obj\x86\Debug\AddYouTubeVideo.csproj.GenerateResource.Cache
+C:\Users\NtD\AppData\Local\Temporary Projects\AddYouTubeVideo\obj\x86\Debug\AddYouTubeVideo.exe
+C:\Users\NtD\AppData\Local\Temporary Projects\AddYouTubeVideo\obj\x86\Debug\AddYouTubeVideo.pdb
+C:\C# files\Visual Studio 2010\Projects\AddYouTubeVideo\AddYouTubeVideo\AddYouTubeVideo\obj\x86\Debug\AddYouTubeVideo.exe
+C:\C# files\Visual Studio 2010\Projects\AddYouTubeVideo\AddYouTubeVideo\AddYouTubeVideo\obj\x86\Debug\AddYouTubeVideo.pdb
+C:\C# files\Visual Studio 2010\Projects\AddYouTubeVideo\AddYouTubeVideo\AddYouTubeVideo\bin\Debug\AddYouTubeVideo.exe
+C:\C# files\Visual Studio 2010\Projects\AddYouTubeVideo\AddYouTubeVideo\AddYouTubeVideo\bin\Debug\AddYouTubeVideo.pdb
+C:\C# files\Visual Studio 2010\Projects\AddYouTubeVideo\AddYouTubeVideo\AddYouTubeVideo\obj\x86\Debug\AddYouTubeVideo.Form1.resources
+C:\C# files\Visual Studio 2010\Projects\AddYouTubeVideo\AddYouTubeVideo\AddYouTubeVideo\obj\x86\Debug\AddYouTubeVideo.Properties.Resources.resources
+C:\C# files\Visual Studio 2010\Projects\AddYouTubeVideo\AddYouTubeVideo\AddYouTubeVideo\obj\x86\Debug\AddYouTubeVideo.csproj.GenerateResource.Cache
+C:\C# files\Visual Studio 2010\Projects\AddYouTubeVideo\AddYouTubeVideo\AddYouTubeVideo\bin\Debug\AddYouTubeVideo.exe.manifest
+C:\C# files\Visual Studio 2010\Projects\AddYouTubeVideo\AddYouTubeVideo\AddYouTubeVideo\bin\Debug\AddYouTubeVideo.application
+C:\C# files\Visual Studio 2010\Projects\AddYouTubeVideo\AddYouTubeVideo\AddYouTubeVideo\obj\x86\Debug\AddYouTubeVideo.exe.manifest
+C:\C# files\Visual Studio 2010\Projects\AddYouTubeVideo\AddYouTubeVideo\AddYouTubeVideo\obj\x86\Debug\AddYouTubeVideo.application
